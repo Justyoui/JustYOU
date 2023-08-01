@@ -1,0 +1,41 @@
+.vo{
+    background-color: orange;
+    border: 10px 
+    outset red ;
+    font-size: 10px;
+
+}
+.RO{
+    background-color: orangered;
+    text-align: center;
+
+}
+.voo{
+    background-color: #0e0e0e;
+}
+.font_music{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.bottom{
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+
+}
+.font_titil{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: orange;
+    text-align: center;
+    font-size: 100px;
+
+
+}
+.logo{
+    background-color: cornsilk;
+    position: absolute;
+    left: 5px;
+    width: 10%;
+    
+}
