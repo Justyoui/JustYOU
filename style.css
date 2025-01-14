@@ -2,7 +2,9 @@
 {   src: url('assest/fonts/Dancing/DancingScript-Regular.otf');
     font-family: 'Dancing Script';
 }
-
+body {
+    margin: 0;
+}
 .vo{
     background-color: orange;
     border: 10px 
