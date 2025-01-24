@@ -26,11 +26,16 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.bottom{
-    position: absolute;
-    bottom: 10px;
+.bottom{ 
+    position: relative;
+    width: 100%;
+    height: 500px;
+}
+
+.bottom > iframe{
     width: 100%;
     height: 100%;
+    scroll-behavior: none;
 }
 
 .font_titil{
@@ -38,6 +43,7 @@ body {
     color: orange;
     text-align: center;
     font-size: 120px;
+    margin: 5% 0 0;
 }
 
 .logo{
